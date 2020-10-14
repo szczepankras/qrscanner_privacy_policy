@@ -1,0 +1,1 @@
+# qrscanner_privacy_policy

@@ -1,6 +1,6 @@
 # qrscanner_privacy_policy
 PRIVACY NOTICE
-Last updated October 14, 2020
+Last updated November 16, 2020
 
 
 
@@ -152,10 +152,9 @@ __________
 __________
 
 
-HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+HOW CAN YOU DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here. We will respond to your request within 30 days.
-This privacy policy was created using Termly’s Privacy Policy Generator.
+Based on the laws of some countries, you may have the right to delete your data in the some circumstances. We don't collect any data which can identifiy the person directly. We have general information about device and parameters which can help as maintain our product. If you want to delete anything related to your device please remove our application.
 
 
 11. TERMS AND CONDITIONS
